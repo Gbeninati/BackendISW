@@ -16,7 +16,7 @@ import org.springframework.web.bind.annotation.RequestParam;
 
 
 @RestController
-@CrossOrigin(origins = "*")
+@CrossOrigin
 public class HistorialPacienteControlador {
 
     @Autowired
