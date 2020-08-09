@@ -17,7 +17,7 @@ import org.springframework.web.bind.annotation.PutMapping;
 
 
 @RestController
-@CrossOrigin(origins = "*")
+@CrossOrigin
 public class PabellonControlador {
 
     @Autowired
