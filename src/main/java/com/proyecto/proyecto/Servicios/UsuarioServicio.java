@@ -2,8 +2,8 @@ package com.proyecto.proyecto.Servicios;
 
 import java.util.List;
 
-import com.example.demo.Modelos.Usuario;
-import com.example.demo.Repositorios.UsuarioRepositorio;
+import com.proyecto.proyecto.Modelos.Usuario;
+import com.proyecto.proyecto.Repositorios.UsuarioRepositorio;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.beans.factory.annotation.Qualifier;

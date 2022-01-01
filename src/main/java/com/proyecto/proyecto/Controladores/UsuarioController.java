@@ -3,8 +3,8 @@ package com.proyecto.proyecto.Controladores;
 import java.util.List;
 
 
-import com.example.demo.Modelos.Usuario;
-import com.example.demo.Servicios.UsuarioServicio;
+import com.proyecto.proyecto.Modelos.Usuario;
+import com.proyecto.proyecto.Servicios.UsuarioServicio;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.beans.factory.annotation.Qualifier;
