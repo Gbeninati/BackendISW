@@ -3,7 +3,7 @@ package com.example.demo.Repositorios;
 
 import java.util.List;
 
-import com.example.demo.Entidades.Usuario;
+import com.example.demo.Modelos.Usuario;
 
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.stereotype.Repository;

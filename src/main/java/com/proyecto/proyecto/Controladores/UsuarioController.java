@@ -3,7 +3,7 @@ package com.example.demo.Controladores;
 import java.util.List;
 
 
-import com.example.demo.Entidades.Usuario;
+import com.example.demo.Modelos.Usuario;
 import com.example.demo.Servicios.UsuarioServicio;
 
 import org.springframework.beans.factory.annotation.Autowired;

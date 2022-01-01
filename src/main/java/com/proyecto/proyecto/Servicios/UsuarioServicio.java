@@ -2,7 +2,7 @@ package com.example.demo.Servicios;
 
 import java.util.List;
 
-import com.example.demo.Entidades.Usuario;
+import com.example.demo.Modelos.Usuario;
 import com.example.demo.Repositorios.UsuarioRepositorio;
 
 import org.springframework.beans.factory.annotation.Autowired;
