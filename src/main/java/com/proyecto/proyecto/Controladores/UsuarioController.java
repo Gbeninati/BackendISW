@@ -1,4 +1,4 @@
-package com.example.demo.Controladores;
+package com.proyecto.proyecto.Controladores;
 
 import java.util.List;
 

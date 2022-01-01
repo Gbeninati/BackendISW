@@ -1,4 +1,4 @@
-package com.example.demo.Servicios;
+package com.proyecto.proyecto.Servicios;
 
 import java.util.List;
 
